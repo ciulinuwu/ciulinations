@@ -18,11 +18,34 @@
             "creators": "Creators & Partners"
         },
         "channels": {
-            "about": "About %s",
-            "by": "by %s",
-            "analytics": "Analytics",
-            "videomanager": "Video Manager",
-            "settings": "Channel Settings"
+            "creatorBar": {
+                "analytics": "Analytics",
+                "videomanager": "Video Manager",
+                "settings": "Channel Settings"
+            },
+            "header": {
+                "stats": {
+                    "subscriber": "subscriber",
+                    "subscribers": "subscribers",
+                    "videoview": "video view",
+                    "videoviews": "video views"
+                },
+                "tabs": {
+                    "featured": "Featured",
+                    "videos": "Browse videos",
+                    "search": "Search Channel"
+                }
+            },
+            "body": {
+                "secondaryPane": {
+                    "userProfile": {
+                        "about": "About %s",
+                        "createdBy": {
+                            "by": "by %s"
+                        }
+                    }
+                }
+            }
         },
         "stats": {
             "likesdislikes": "%s likes, %r dislikes"
