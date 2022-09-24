@@ -18,7 +18,11 @@
             "creators": "Creators & Partners"
         },
         "channels": {
-            "about": "About %s"
+            "about": "About %s",
+            "by": "by %s",
+            "analytics": "Analytics",
+            "videomanager": "Video Manager",
+            "settings": "Channel Settings"
         },
         "stats": {
             "likesdislikes": "%s likes, %r dislikes"
