@@ -70,6 +70,11 @@
                 }
             }
         },
+        "search": {
+            "playlists": {
+                "by": "by %s"
+            }
+        },
         "stats": {
             "likesdislikes": "%s likes, %r dislikes"
         },
