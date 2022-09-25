@@ -17,6 +17,20 @@
             "press": "Press & Blogs",
             "creators": "Creators & Partners"
         },
+        "playlists": {
+            "header": {
+                "channelAuthor": "by %s"
+            },
+            "body": {
+                "primaryPanel": {
+                    "items": {
+                        "video": {
+                            "by":"by %s"
+                        }
+                    }
+                }
+            }
+        },
         "channels": {
             "creatorBar": {
                 "analytics": "Analytics",
