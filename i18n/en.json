@@ -22,11 +22,16 @@
                 "channelAuthor": "by %s"
             },
             "body": {
-                "primaryPanel": {
+                "primaryPane": {
                     "items": {
                         "video": {
                             "by":"by %s"
                         }
+                    }
+                },
+                "secondaryPane": {
+                    "aboutSection": {
+                        "about": "About %s"
                     }
                 }
             }
