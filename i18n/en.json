@@ -31,7 +31,11 @@
                 },
                 "secondaryPane": {
                     "aboutSection": {
-                        "about": "About %s"
+                        "about": "About %s",
+                        "creatorLinks": {
+                            "playlists": "%s playlists by %r",
+                            "videos": "View all videos"
+                        }
                     }
                 }
             }
