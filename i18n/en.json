@@ -1,6 +1,6 @@
 {
     "language": "en",
-    "author": "Ciulin's YouTube",
+    "author": "",
     "json": {
         "global": {
             "browse": "Browse",
@@ -84,7 +84,17 @@
         "buttons": {
             "watch": {
                 "showmore": "Show more",
-                "showless": "Show less"
+                "showless": "Show less",
+                "like": "Like",
+                "ilikethis": "I like this",
+                "dislike": "Dislike",
+                "idislikethis": "I dislike this",
+                "addto": "Add to",
+                "addtofavorlist": "Add to favorites or playlist",
+                "share": "Share",
+                "sharethis": "Share or embed this video",
+                "flag": "Flag as inappropriate",
+                "transcript": "Interactive Transcript"
             },
             "like": "Like",
             "addto": "Add to",
@@ -126,6 +136,11 @@
             "fullscreen": "Full screen"
         },
         "watch": {
+            "watchInfo": {
+                "category": "Category:",
+                "tags": "Tags:",
+                "license": "License:"
+            },
             "tags": "Tags",
             "license": "License",
             "uploaderinfo": "Uploaded by %s on %r",
