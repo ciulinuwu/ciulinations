@@ -96,14 +96,16 @@
                 "flag": "Flag as inappropriate",
                 "transcript": "Interactive Transcript"
             },
+            "subscribe": {
+                "subscribe": "Subscribe",
+                "subscribed": "Subscribed",
+                "unsubscribe": "Unsubscribe"
+            },
             "like": "Like",
             "addto": "Add to",
             "share": "Share",
             "showmore": "Show more",
             "showless": "Show less",
-            "subscribe": "Subscribe",
-            "subscribed": "Subscribed",
-            "unsubscribe": "Unsubscribe",
             "post": "Post",
             "loadmoresuggestions": "Load more suggestions",
             "signin": "Sign In"
