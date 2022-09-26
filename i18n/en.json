@@ -9,7 +9,10 @@
             "about": "About",
             "copyright": "Copyright",
             "advertising": "Advertising",
-            "loading": "Loading...",
+            "loading": {
+                "main": "Loading...",
+                "comment": "Loading comment"
+            },
             "channel": "Channel",
             "seeall": "see all",
             "search": "Search",
@@ -79,6 +82,10 @@
             "likesdislikes": "%s likes, %r dislikes"
         },
         "buttons": {
+            "watch": {
+                "showmore": "Show more",
+                "showless": "Show less"
+            },
             "like": "Like",
             "addto": "Add to",
             "share": "Share",
