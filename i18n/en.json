@@ -144,10 +144,14 @@
             "uploaderinfo": "Uploaded by %s on %r",
             "category": "Category",
             "from": "From: %s",
-            "uploadedavideo": "%s uploaded a video",
-            "islive": "%s is live",
             "by": "by %s"
-        },    
+        },
+        "home": {
+            "feed": {
+                "uploadedavideo": "%s uploaded a video",
+                "islive": "%s is live"
+            }
+        },
         "uploadmonth": {
             "jan": "Jan",
             "feb": "Feb",
