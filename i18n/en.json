@@ -86,15 +86,9 @@
                 "showmore": "Show more",
                 "showless": "Show less",
                 "like": "Like",
-                "ilikethis": "I like this",
                 "dislike": "Dislike",
-                "idislikethis": "I dislike this",
                 "addto": "Add to",
-                "addtofavorlist": "Add to favorites or playlist",
-                "share": "Share",
-                "sharethis": "Share or embed this video",
-                "flag": "Flag as inappropriate",
-                "transcript": "Interactive Transcript"
+                "share": "Share"
             },
             "subscribe": {
                 "subscribe": "Subscribe",
@@ -122,14 +116,16 @@
             "respond": "Respond to this video..."
         },
         "tooltip": {
-            "ilikethis": "I like this",
-            "idislikethis": "I dislike this",
-            "addto": "Add to favorites or playlist",
-            "share": "Share or embed this video",
-            "flag": "Flag as inappropriate",
-            "statistics": "Show video statistics",
-            "clicktobe": "Click to be notified of new videos from this channel",
-            "interactive": "Interactive Transcript"
+            "watch": {
+                "ilikethis": "I like this",
+                "idislikethis": "I dislike this",
+                "addto": "Add to favorites or playlist",
+                "share": "Share or embed this video",
+                "flag": "Flag as inappropriate",
+                "statistics": "Show video statistics",
+                "clicktobe": "Click to be notified of new videos from this channel",
+                "transcript": "Interactive Transcript"
+            }
         },
         "player": {
             "mute": "Mute",
