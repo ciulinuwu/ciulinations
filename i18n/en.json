@@ -11,7 +11,8 @@
             "advertising": "Advertising",
             "loading": {
                 "main": "Loading...",
-                "comment": "Loading comment"
+                "comment": "Loading comment",
+                "suggestions": "Loading more suggestions..."
             },
             "channel": "Channel",
             "seeall": "see all",
@@ -95,25 +96,18 @@
                 "subscribed": "Subscribed",
                 "unsubscribe": "Unsubscribe"
             },
-            "like": "Like",
-            "addto": "Add to",
-            "share": "Share",
+            "suggestions": {
+                "loadmoresuggestions": "Load more suggestions"
+            },
+            "comments": {
+                "post": "Post"
+            },
             "showmore": "Show more",
             "showless": "Show less",
-            "post": "Post",
-            "loadmoresuggestions": "Load more suggestions",
             "signin": "Sign In"
         },
         "suggestions": {
             "loading": "Loading more suggestions..."
-        },
-        "comments": {
-            "charactersremain": "%s characters remaining",
-            "secondsremain": "%s seconds remaining before you can post",
-            "loading": "Loading comment...",
-            "allcomments": "All Comments",
-            "topcomments": "Top Comments",
-            "respond": "Respond to this video..."
         },
         "tooltip": {
             "watch": {
@@ -127,17 +121,19 @@
                 "transcript": "Interactive Transcript"
             }
         },
-        "player": {
-            "mute": "Mute",
-            "unmute": "Unmute",
-            "quality": "Change quality",
-            "fullscreen": "Full screen"
-        },
         "watch": {
             "watchInfo": {
                 "category": "Category:",
                 "tags": "Tags:",
                 "license": "License:"
+            },
+            "comments": {
+                "charactersremain": "%s characters remaining",
+                "secondsremain": "%s seconds remaining before you can post",
+                "loading": "Loading comment...",
+                "allcomments": "All Comments",
+                "topcomments": "Top Comments",
+                "respond": "Respond to this video..."
             },
             "tags": "Tags",
             "license": "License",
@@ -204,7 +200,7 @@
             "popular": "Popular",
             "music": "Music",
             "live": "Live",
-            "gaming": "Gaming",
+            "gadgets": "Gaming",
             "news": "News",
             "sports": "Sports",
             "education": "Education",
