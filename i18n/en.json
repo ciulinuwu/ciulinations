@@ -91,6 +91,21 @@
             }
         },
         "search": {
+            "filtermenu": {
+                "sortBy": {
+                    "": "Relevance",
+                    "CAI": "Upload date",
+                    "CAM": "View count",
+                    "CAE": "Rating"
+                },
+                "uploadDate": {
+                    "EgIIAQ": "Last hour",
+                    "EgIIAg": "Today",
+                    "EgIIAw": "This week",
+                    "EgIIBA": "This month",
+                    "EgIIBQ": "This year"
+                }
+            },
             "playlists": {
                 "by": "by %s"
             }
