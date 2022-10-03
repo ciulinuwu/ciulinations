@@ -80,10 +80,11 @@
                     "userProfile": {
                         "title": "Profile",
                         "cards": {
-                            "description": "",
-                            "country": "Country:",
+                            "name": "Name:",
+                            "views": "Views:",
                             "joined": "Joined:",
-                            "views": "Views:"
+                            "country": "Country:",
+                            "description": " "
                         }
                     }
                 }
