@@ -45,30 +45,45 @@
             }
         },
         "channels": {
-            "creatorBar": {
-                "analytics": "Analytics",
-                "videomanager": "Video Manager",
-                "settings": "Channel Settings"
-            },
-            "header": {
-                "stats": {
-                    "subscriber": "subscriber",
-                    "subscribers": "subscribers",
-                    "videoview": "video view",
-                    "videoviews": "video views"
+            "3": {
+                "creatorBar": {
+                    "analytics": "Analytics",
+                    "videomanager": "Video Manager",
+                    "settings": "Channel Settings"
                 },
-                "tabs": {
-                    "featured": "Featured",
-                    "videos": "Browse videos",
-                    "search": "Search Channel"
+                "header": {
+                    "stats": {
+                        "subscriber": "subscriber",
+                        "subscribers": "subscribers",
+                        "videoview": "video view",
+                        "videoviews": "video views"
+                    },
+                    "tabs": {
+                        "featured": "Featured",
+                        "videos": "Browse videos",
+                        "search": "Search Channel"
+                    }
+                },
+                "body": {
+                    "secondaryPane": {
+                        "userProfile": {
+                            "about": "About %s",
+                            "createdBy": {
+                                "by": "by %s"
+                            }
+                        }
+                    }
                 }
             },
-            "body": {
-                "secondaryPane": {
+            "2": {
+                "modules": {
                     "userProfile": {
-                        "about": "About %s",
-                        "createdBy": {
-                            "by": "by %s"
+                        "title": "Profile",
+                        "cards": {
+                            "description": "",
+                            "country": "Country:",
+                            "joined": "Joined:",
+                            "views": "Views:"
                         }
                     }
                 }
