@@ -91,21 +91,6 @@
             }
         },
         "search": {
-            "filtermenu": {
-                "sortBy": {
-                    "": "Relevance",
-                    "CAI": "Upload date",
-                    "CAM": "View count",
-                    "CAE": "Rating"
-                },
-                "uploadDate": {
-                    "EgIIAQ": "Last hour",
-                    "EgIIAg": "Today",
-                    "EgIIAw": "This week",
-                    "EgIIBA": "This month",
-                    "EgIIBQ": "This year"
-                }
-            },
             "playlists": {
                 "by": "by %s"
             }
@@ -150,6 +135,12 @@
                 "statistics": "Show video statistics",
                 "clicktobe": "Click to be notified of new videos from this channel",
                 "transcript": "Interactive Transcript"
+            },
+            "channels2": {
+                "subscribe": {
+                    "subscribe": "Click to be notified of new videos from this channel",
+                    "subscribed": " "
+                }
             }
         },
         "watch": {
