@@ -11,15 +11,11 @@ This guide will cover how to translate Cosmic Cat!
 4. Press **Enter** to create your local clone.
 5. Change the current working directory to the cloned folder > i18n</br>
 `$ cd Ciulinations/i18n`
-6. Make a duplicate of `en.json` and rename it to the ISO 639-1 Language Code of your language. [ISO 639-1 Language Codes can be looked up here](https://www.loc.gov/standards/iso639-2/php/code_list.php)</br>
+6. Duplicate `en.json` and rename it to ISO 639-1 Language Code of your language. [ISO 639-1 Language Codes can be looked up here](https://www.loc.gov/standards/iso639-2/php/code_list.php)</br>
 `$ cp en.json <ISO 639-1 code here>.json`
-
-## Editing
-1. Open `<ISO 639-1 code here>.json` in an IDE of your choice.
-2. Navigate to `Line 2` and add your ISO 639-1 Code to the `language` field.
-3. Navigate to `Line 3` and add your GitHub username to the `author` field.
-4. From this point, you can translate the strings in each field inside `json`.</br>
-**Do not translate the field name otherwise will render the contents of that field useless.**
+7. Open `<ISO 639-1 code here>.json` in an IDE of your choice.
+8. Navigate to `Line 2` and add your ISO 639-1 Code to the `language` field.
+9. Navigate to `Line 3` and add your GitHub username to the `author` field.
 
 ## Submitting
 (NEEDS RESEARCH)
@@ -27,3 +23,4 @@ This guide will cover how to translate Cosmic Cat!
 ## Rules
 * Do **NOT** use machine translation.
 * Must be fluent in English and the targeted language.
+* **DO NOT TRANSLATE THE FIELD NAMES - OTHERWISE WILL RENDER THAT FIELD USELESS**
